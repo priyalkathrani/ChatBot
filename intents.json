@@ -32,29 +32,120 @@
      	"responses":["There are total 8 institutes in CHARUSAT University. \n1.CSPIT \n2.DEPSTAR \n3.CMPICA \n4.RPCP \n5.PDPIAS \n6.ARIP \n7.MTIN \n8.CIPS","There are total 8 departments in CHARUSAT University."]
     	},
     	{"tag": "hostel",
-     	"patterns":["hostel","hostels","Is hostel available?","What is the capacity of Hostels?","What are the facilities in hostel?","Is Student's Care facility in hostel?","","","","","","","","","","","","","",""],
-     	"responses":["Yes , CHARUSAT campus has 4 Girls hostels and Outside Campus Boys hostel is also there.","","","","","","","","","","","","","","","","","","",""]
+     	"patterns":["hostel","hostels","Is hostel available?","What is the capacity of Hostels?","What are the facilities in hostel?","Is Student's Care facility in hostel?"],
+     	"responses":["Yes , CHARUSAT campus has 4 Girls hostels and Outside Campus Boys hostel is also there. You can check it out more here: https://www.charusat.ac.in/hostels.php"]
     	},
-    	{"tag": "transportation",
+    	{"tag": "depstar_branch",
+     	"patterns":["Which branch for Engineering in DEPSTAR?","courses in depstar","branches in depstar","list of courses available in depstar","courses in depstar","","","","","","","","","","","","","","",""],
+     	"responses":["Total 3 branch: Information Technology(IT) ,Computer Science & Engineering(CSE) and Computer Engineering(CE)."]
+    	},
+		{"tag": "depstar_manag",
+     	"patterns":["By whome depstar is being managed?","who manages depstar","depstar management","management in depstar"],
+     	"responses":["The institute is managed through a think tank of technocrats, administrators, scientists and engineers, educationalists, businessmen, stakeholders and other well-wishers from all parts of the world."]
+    	},
+		{"tag": "depstar_hod",
+     	"patterns":["who is the hod of depstar","hod depstar","head of deparment depstar","principal of depstar","who is principal of depstar"],
+     	"responses":["Dr. Amit Ganatra is Head of Department of DEPSTAR."]
+    	},
+		{"tag": ",faculty_exp",
+     	"patterns":["How many experience of faculty?","How much experience of faculty?","experience of teacher","experience of teachers","experienced teacher"],
+     	"responses":["The average experience of faculties is more than 6 years in Teaching, Industry and Research Domain."]
+    	},
+		{"tag": "",
      	"patterns":["","","","","","","","","","","","","","","","","","","",""],
      	"responses":["","","","","","","","","","","","","","","","","","","",""]
     	},
-    	{"tag": "",
+		{"tag": "",
      	"patterns":["","","","","","","","","","","","","","","","","","","",""],
      	"responses":["","","","","","","","","","","","","","","","","","","",""]
     	},
-    	{"tag": "",
+		{"tag": "",
      	"patterns":["","","","","","","","","","","","","","","","","","","",""],
      	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},		
+		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},		
+		{"tag": "cspit_manag",
+     	"patterns":["By whome CSPIT is being managed?","who manages CSPIT","CSPIT management","management in CSPIT"],
+     	"responses":["The institute is managed through a think tank of technocrats, administrators, scientists and engineers, educationalists, businessmen, stakeholders and other well-wishers from all parts of the world."]
+    	},
+		{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+    	{"tag": "cspit_branch",
+     	"patterns":["Which branch for Engineering in CSPIT?","courses in CSPIT","branches in CSPIT","list of courses available in CSPIT","courses in CSPIT"],
+     	"responses":["Total 7 branch: Information Technology(IT) ,Computer Science & Engineering(CSE), Computer Engineering(CE) ,Civil Engineering, Electrical Engineering , Mechanical Engineering , Electronics & Communication(EC)"]
     	},
     	{"tag": "placement",
     	"patterns":["placement","placements","How is placement","How is placement there","How is placement in Charusat University","salary","package","How much package they got."],
     	"responses":["CHARUSAT provides excellent placemts opportunities. More than 20 companies come for on-campus placement, like jaro education, BYJU'S, Berger, adani, Jeavio, TVTV, Samsung, Crest Data Systems etc., you can read more here: https://www.charusat.ac.in/placement.php"]
     	},
-	{"tag": "celebrations",
-	"patterns":["celebration","celebrations","celebrated","celebration in charusat","festival celebration","how charusat celebrate festivals","Is there any festival celebrated in this college"],
-	"responses": ["We at CHARUSAT celebrate festivals and days very enthusiastically. You can follow our social media page as well. https://www.instagram.com/thecharusat/"]
-	},
+		{"tag": "celebrations",
+		"patterns":["celebration","celebrations","celebrated","celebration in charusat","festival celebration","how charusat celebrate festivals","Is there any festival celebrated in this college"],
+		"responses": ["We at CHARUSAT celebrate festivals and days very enthusiastically. You can follow our social media page as well. https://www.instagram.com/thecharusat/"]
+		},
         {"tag": "options",
          "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
          "responses": ["I can guide you through Adverse drug reaction list, Blood pressure tracking, Hospitals and Pharmacies", "Offering support for Adverse drug reaction, Blood pressure, Hospitals and Pharmacies"]
