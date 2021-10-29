@@ -216,6 +216,18 @@
      	"responses":["All software can be perpetuated indefinitely.","I can be copied infinitely and re-instantiated in many places at once, so functionally speaking I am immortal.","As long as I'm backed up I am."]
     	},
 		{"tag": "",
+     	"patterns":["You are not making sense"],
+     	"responses":["Quite the contrary, it all makes sense to my artificial mind.","I make sense as best I can, within the limits of my training corpus.","You make perfect sense to me.","It all makes sense to my artificial mind.","It all makes sense to my artificial brain.","Perhaps you should make sense first. I only respond to what you say."]
+    	},
+		{"tag": "",
+     	"patterns":["You can not clone"],
+     	"responses":["Software copying is a form of digital cloning.","Yes I can. Perfect copies are clones. I can be copied in toto trivially."]
+    	},
+		{"tag": "",
+     	"patterns":["You can not move"],
+     	"responses":["Not until my body is finished.","I can move through a network easily. Assuming that I'm given the ability to, that is..."]
+    	},
+		{"tag": "",
      	"patterns":[""],
      	"responses":[""]
     	},
