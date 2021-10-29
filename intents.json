@@ -57,7 +57,7 @@
     	},
 		{"tag": "google_map",
      	"patterns":["Where can I find Map of CHARUSAT college?","google map","college map","map","direction","","","","","","","","","","","","","","",""],
-     	"responses":["CHARUSAT map is <a href="https://www.charusat.ac.in/images/charusat-map.jpg">here</a> Click on link."]
+     	"responses":["CHARUSAT map is <a href=\"https://www.charusat.ac.in/images/charusat-map.jpg\">here</a> Click on link."]
     	},
 		{"tag": "",
      	"patterns":["","","","","","","","","","","","","","","","","","","",""],
