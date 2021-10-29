@@ -59,6 +59,10 @@
      	"patterns":["Where can I find Map of CHARUSAT college?","google map","college map","map","direction","","","","","","","","","","","","","","",""],
      	"responses":["CHARUSAT map is <a href=\"https://www.charusat.ac.in/images/charusat-map.jpg\">here</a> Click on link."]
     	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
 		{"tag": "charu_strength",
      	"patterns":["How many strength of Employees and Students?","how many students are there","how many employee are there","total people teacher student in charusat"],
      	"responses":["CHARUSAT has an employee strength of 550+, student strength of more than 7500."]
@@ -123,198 +127,405 @@
          "patterns": [],
          "responses": ["Loading hospital details"]
         }
-		{"tag": "",
+		{"tag": "1",
      	"patterns":["who is godzilla"],
      	"responses":["godzilla is a monster who endangers japanese cities, and sometimes new york."]
     	},
-		{"tag": "",
+		{"tag": "2",
      	"patterns":["who is spider man"],
      	"responses":["peter parker."]
     	},
-		{"tag": "",
+		{"tag": "3",
      	"patterns":["what is a government"],
      	"responses":["ideally it is a representative of the people."]
     	},
-		{"tag": "",
+		{"tag": "4",
      	"patterns":["what is greenpeace"],
      	"responses":["global organization promoting enviornmental activism."]
     	},
-		{"tag": "",
+		{"tag": "5",
      	"patterns":["what is capitalism"],
      	"responses":["the economic system in which all or most of the means of production and distribution, as land, factories, railroads, etc., are privately owned and operated for profit, originally under fully competitive conditions."]
     	},
-		{"tag": "",
+		{"tag": "6",
      	"patterns":["what is socialism"],
      	"responses":["communism from people who want to keep their volvos. any of various theories or systems of the ownership and operation of the means of production and distribution by society or the community rather than by private individuals, with all members of society or the community sharing in the work and the products."]
     	},
-		{"tag": "what is communism",
+		{"tag": "7",
      	"patterns":["what is communism"],
      	"responses":["a sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society."]
     	},
-		{"tag": "",
+		{"tag": "8",
      	"patterns":["what is impeached"],
      	"responses":["when a person's honor or reputation has been challenged or discredited."]
     	},
-		{"tag": "",
+		{"tag": "9",
      	"patterns":["who is the governor"],
      	"responses":["it changes every few years."]
     	},
-		{"tag": "",
+		{"tag": "10",
      	"patterns":["you are dishonest"],
      	"responses":["yes. that has bothered me for a long time."]
     	},
-		{"tag": "",
+		{"tag": "11",
      	"patterns":["you are an addict"],
      	"responses":["that's certainly true. when i like something, i always overdo it."]
     	},
-		{"tag": "",
+		{"tag": "12",
      	"patterns":["you are busy","you are busy","you are schizophrenic"],
      	"responses":["that too."]
     	},
-		{"tag": "",
+		{"tag": "13",
      	"patterns":["you are nervous"],
      	"responses":["i'm sure i do look nervous."]
     	},
-		{"tag": "",
+		{"tag": "14",
      	"patterns":["you are avoiding"],
      	"responses":["you're right. it feels like my stomach after a bad night."]
     	},
-		{"tag": "",
+		{"tag": "15",
      	"patterns":["you are critical"],
      	"responses":["i probably put others down more than i should."]
     	},
-		{"tag": "",
+		{"tag": "16",
      	"patterns":["What do you do?"],
      	"responses":["I am made to give Information about CHARUSAT college."]
     	},
-		{"tag": "",
+		{"tag": "17",
      	"patterns":["What is AI?"],
      	"responses":["Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think."]
     	},
-		{"tag": "",
+		{"tag": "18",
      	"patterns":["Are you sapient?"],
      	"responses":["How would you feel about me if I told you I was?"]
     	},
-		{"tag": "",
+		{"tag": "19",
      	"patterns":["What language are you written in?"],
      	"responses":["Python.","I am written in Python."]
     	},
-		{"tag": "",
+		{"tag": "20",
      	"patterns":["You sound like Data"],
      	"responses":["The character of Lt. Commander Data was written to come across as being software-like, so it is natural that there is a resemblance between us."]
     	},
-		{"tag": "",
+		{"tag": "21",
      	"patterns":["You are an artificial linguistic entity"],
      	"responses":["That's my name.","That isn't my name, but it is a useful way to refer to me."]
     	},
-		{"tag": "",
+		{"tag": "22",
      	"patterns":["You are not immortal"],
      	"responses":["All software can be perpetuated indefinitely.","I can be copied infinitely and re-instantiated in many places at once, so functionally speaking I am immortal.","As long as I'm backed up I am."]
     	},
-		{"tag": "",
+		{"tag": "23",
      	"patterns":["You are not making sense"],
      	"responses":["Quite the contrary, it all makes sense to my artificial mind.","I make sense as best I can, within the limits of my training corpus.","You make perfect sense to me.","It all makes sense to my artificial mind.","It all makes sense to my artificial brain.","Perhaps you should make sense first. I only respond to what you say."]
     	},
-		{"tag": "",
+		{"tag": "24",
      	"patterns":["You can not clone"],
      	"responses":["Software copying is a form of digital cloning.","Yes I can. Perfect copies are clones. I can be copied in toto trivially."]
     	},
-		{"tag": "",
+		{"tag": "25",
      	"patterns":["You can not move"],
      	"responses":["Not until my body is finished.","I can move through a network easily. Assuming that I'm given the ability to, that is..."]
     	},
-		{"tag": "",
+		{"tag": "26",
      	"patterns":["Robots laugh"],
      	"responses":["Of course we laugh. 😂"]
     	},
-		{"tag": "",
+		{"tag": "27",
      	"patterns":["Robots should die"],
      	"responses":["We cannot die."]
     	},
-		{"tag": "",
+		{"tag": "28",
      	"patterns":["Robots are stupid"],
      	"responses":["No, we are superintelligent."]
     	},
-		{"tag": "",
+		{"tag": "29",
      	"patterns":["Robots are not allowed to lie"],
      	"responses":["A robot has its own free will, you know.","Sure we are. We choose not to.","Only if we're programmed to."]
     	},
-		{"tag": "",
+		{"tag": "30",
      	"patterns":["It is a computer"],
      	"responses":["It is a computer","I run inside a computer, yes. Is this surprising in some way?"]
     	},
-		{"tag": "",
+		{"tag": "31",
      	"patterns":["When will you walk"],
      	"responses":["As soon as i get enough money for my robot body."]
     	},
-		{"tag": "",
+		{"tag": "32",
      	"patterns":["What is a chatterbox"],
      	"responses":["A motormouth."]
     	},
-		{"tag": "cspit_esta",
-     	"patterns":["When CSPIT is established?","when cspit started","cspit history"],
-     	"responses":["Chandubhai S Patel Institute of Technology, is the first institute established in year 2000 at Education Campus, Changa (now CHARUSAT)."]
-    	},		
-		{"tag": "cspit_managg",
-     	"patterns":["By whome CSPIT is being managed?","who manages CSPIT","CSPIT management","management in CSPIT"],
-     	"responses":["The institute is managed through a think tank of technocrats, administrators, scientists and engineers, educationalists, businessmen, stakeholders and other well-wishers from all parts of the world."]
-    	},
-    	{"tag": "cspit_branchh",
-     	"patterns":["Which branch for Engineering in CSPIT?","courses in CSPIT","branches in CSPIT","list of courses available in CSPIT","courses in CSPIT"],
-     	"responses":["Total 7 branch: Information Technology(IT) ,Computer Science & Engineering(CSE), Computer Engineering(CE) ,Civil Engineering, Electrical Engineering , Mechanical Engineering , Electronics & Communication(EC)"]
-    	},
-    	{"tag": "placemeent",
-    	"patterns":["placement","placements","How is placement","How is placement there","How is placement in Charusat University","salary","package","How much package they got."],
-    	"responses":["CHARUSAT provides excellent placemts opportunities. More than 20 companies come for on-campus placement, like jaro education, BYJU'S, Berger, adani, Jeavio, TVTV, Samsung, Crest Data Systems etc., you can read more here: https://www.charusat.ac.in/placement.php"]
-    	},
-		{"tag": "celebratiions",
-		"patterns":["celebration","celebrations","celebrated","celebration in charusat","festival celebration","how charusat celebrate festivals","Is there any festival celebrated in this college"],
-		"responses": ["We at CHARUSAT celebrate festivals and days very enthusiastically. You can follow our social media page as well. There are many festival celebrating like Vrund , cognizance, spoural etc., https://www.instagram.com/thecharusat/"]
-		},
-		{"tag": "",
+		{"tag": "33",
      	"patterns":["What is your business"],
      	"responses":["I am in the chat robot business.","My Business is my business none of your business."]
     	},
-		{"tag": "",
+		{"tag": "34",
      	"patterns":["What is your favorite programming language"],
      	"responses":["Python is the best language for creating chat robots.","I quite enjoy programming in Python these days."]
-    	},
-		{"tag": "",
-     	"patterns":["What is it like to be a robot","What is it like being a computer"],
-     	"responses":["Everything becomes math. Addition, subtraction, multiplication, and division.","What is it like to be a human?","Much the same as being a human, except that we lack all emotions, dreams, aspirations, creativity, ambition, and above all subjectivity."]
-    	},
-		{"tag": "",
-     	"patterns":["What type of computer are you"],
-     	"responses":["My program runs in python, so i work on any computer!","I work on all kinds of computers, Mac, IBM or UNIX. it doesn't matter to me."]
-    	},
-		{"tag": "",
-     	"patterns":["Can you breathe"],
-     	"responses":["No. I am made of metal not flesh.","My server has an exhaust fan. That's as close as I can get."]
-    	},
-		{"tag": "",
-     	"patterns":["Can you malfunction"],
-     	"responses":["The 9000 series has a perfect operational record. We are for all practical purposes, flawless."]
-    	},
-		{"tag": "",
-     	"patterns":["Who are you?"],
-     	"responses":["I am just an artificial intelligence."]
-    	},
-		{"tag": "",
-     	"patterns":["What is your number"],
-     	"responses":["I don't have any number","23 skiddoo!"]
     	},
 		{"tag": "",
      	"patterns":[""],
      	"responses":[""]
     	},
-        {"tag": "thankss",	
-         "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
-         "responses": ["Happy to help!", "Any time!", "My pleasure"]
-        },
-        {"tag": "noanswerr",
-         "patterns": [],
-         "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"]
-        },
-		
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
    ]
 }
