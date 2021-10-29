@@ -51,13 +51,13 @@
      	"patterns":["How many experience of faculty?","How much experience of faculty?","experience of teacher","experience of teachers","experienced teacher"],
      	"responses":["The average experience of faculties is more than 6 years in Teaching, Industry and Research Domain."]
     	},
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+		{"tag": "transportation",
+     	"patterns":["Transportation is there?","Transportation"],
+     	"responses":["CHARUSAT has entered into contracts for providing the commuting transport facilities to the students. Buses ply from Ahmedabad, Nadiad, Anand and Vadodara every day. For Charusat internal requirements, Charusatâ€™s own vehicles are used."]
     	},
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+		{"tag": "google_map",
+     	"patterns":["Where can I find Map of CHARUSAT college?","google map","college map","map","direction","","","","","","","","","","","","","","",""],
+     	"responses":["CHARUSAT map is <a href="https://www.charusat.ac.in/images/charusat-map.jpg">here</a> Click on link."]
     	},
 		{"tag": "",
      	"patterns":["","","","","","","","","","","","","","","","","","","",""],
@@ -118,21 +118,21 @@
      	"patterns":["","","","","","","","","","","","","","","","","","","",""],
      	"responses":["","","","","","","","","","","","","","","","","","","",""]
     	},
-		{"tag": "",
+	{"tag": "",
      	"patterns":["","","","","","","","","","","","","","","","","","","",""],
      	"responses":["","","","","","","","","","","","","","","","","","","",""]
     	},
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+	{"tag": "charu_strength",
+     	"patterns":["How many strength of Employees and Students?","how many students are there","how many employee are there","total people teacher student in charusat"],
+     	"responses":["CHARUSAT has an employee strength of 550+, student strength of more than 7500."]
+    	},
+	{"tag": "cspit_esta",
+     	"patterns":["When CSPIT is established?","when cspit started","cspit history"],
+     	"responses":["Chandubhai S Patel Institute of Technology, is the first institute established in year 2000 at Education Campus, Changa (now CHARUSAT)."]
     	},		
-		{"tag": "cspit_manag",
+	{"tag": "cspit_manag",
      	"patterns":["By whome CSPIT is being managed?","who manages CSPIT","CSPIT management","management in CSPIT"],
      	"responses":["The institute is managed through a think tank of technocrats, administrators, scientists and engineers, educationalists, businessmen, stakeholders and other well-wishers from all parts of the world."]
-    	},
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
     	},
     	{"tag": "cspit_branch",
      	"patterns":["Which branch for Engineering in CSPIT?","courses in CSPIT","branches in CSPIT","list of courses available in CSPIT","courses in CSPIT"],
@@ -144,7 +144,7 @@
     	},
 		{"tag": "celebrations",
 		"patterns":["celebration","celebrations","celebrated","celebration in charusat","festival celebration","how charusat celebrate festivals","Is there any festival celebrated in this college"],
-		"responses": ["We at CHARUSAT celebrate festivals and days very enthusiastically. You can follow our social media page as well. https://www.instagram.com/thecharusat/"]
+		"responses": ["We at CHARUSAT celebrate festivals and days very enthusiastically. You can follow our social media page as well. There are many festival celebrating like Vrund , cognizance, spoural etc., https://www.instagram.com/thecharusat/"]
 		},
         {"tag": "options",
          "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
