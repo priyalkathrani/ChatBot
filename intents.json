@@ -24,18 +24,18 @@
      	"responses":["CHARUSAT proudly follows this spirit. It also follows founding High Moral Values like Honesty, Integrity, Transparency, Fairness, Equity, and Accountability.\n\nCHARUSAT offers various programs, viz., UG, PG, Doctoral, Post-Doctoral, Diploma, Value-added and Executive Development Programs under the tutelage of 9 Institutes, 6 Faculties, and various Centers / Cells. An employee strength of 600, student strength of more than 8000 and a Capital Outlay of INR 150 Crores are the scalar dimensions of CHARUSAT. The programs are offered in the allied disciplines of Technology & Engineering, Pharmacy, Computer Applications, Management Studies, Applied Sciences, Nursing, Physiotherapy, and other Paramedical Sciences."]
     	},
     	{"tag": "uni_info",
-     	"patterns":["where is university located","address","location","contact","connect","located","how to find the university","how to contact","where to contact","How to connect","how to come to CHARUSAT","where is charusat","where is university"],
+     	"patterns":["where is university located","address","CHARUSAT Contact No.?","Where can I find Map of CHARUSAT college?","location","contact","connect","located","how to find the university","how to contact","where to contact","How to connect","how to come to CHARUSAT","where is charusat","where is university"],
      	"responses":["CHARUSAT is located at Off. Nadiad-Petlad Highway, Changa 388 421,Anand, Gujarat, INDIA. \nYou can contact us by Telephone: 02697-265011 \nEmail: info@charusat.ac.in \nOn Google map: https://goo.gl/maps/3nGxqQaKptdRN8ym9"]
     	},
     	{"tag": "deparments",
      	"patterns":["departments","how many departments","how many institutes","institutes","institutes list","list of institutes","department list","list of department","which are the departments in the university","how many institutes in the university"],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+     	"responses":["There are total 8 institutes in CHARUSAT University. \n1.CSPIT \n2.DEPSTAR \n3.CMPICA \n4.RPCP \n5.PDPIAS \n6.ARIP \n7.MTIN \n8.CIPS","There are total 8 departments in CHARUSAT University."]
     	},
-    	{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	{"tag": "hostel",
+     	"patterns":["hostel","hostels","Is hostel available?","What is the capacity of Hostels?","What are the facilities in hostel?","Is Student's Care facility in hostel?","","","","","","","","","","","","","",""],
+     	"responses":["Yes , CHARUSAT campus has 4 Girls hostels and Outside Campus Boys hostel is also there.","","","","","","","","","","","","","","","","","","",""]
     	},
-    	{"tag": "",
+    	{"tag": "transportation",
      	"patterns":["","","","","","","","","","","","","","","","","","","",""],
      	"responses":["","","","","","","","","","","","","","","","","","","",""]
     	},
