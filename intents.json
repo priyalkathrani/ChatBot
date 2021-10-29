@@ -60,77 +60,18 @@
      	"responses":["CHARUSAT map is <a href=\"https://www.charusat.ac.in/images/charusat-map.jpg\">here</a> Click on link."]
     	},
 		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+     	"patterns":[""],
+     	"responses":[""]
     	},
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
-    	},		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
-    	},
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
-    	},
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
-    	},
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
-    	},
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
-    	},
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
-    	},
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
-    	},
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
-    	},
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
-    	},
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
-    	},		
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
-    	},
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
-    	},
-		{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
-    	},
-	{"tag": "",
-     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
-     	"responses":["","","","","","","","","","","","","","","","","","","",""]
-    	},
-	{"tag": "charu_strength",
+		{"tag": "charu_strength",
      	"patterns":["How many strength of Employees and Students?","how many students are there","how many employee are there","total people teacher student in charusat"],
      	"responses":["CHARUSAT has an employee strength of 550+, student strength of more than 7500."]
     	},
-	{"tag": "cspit_esta",
+		{"tag": "cspit_esta",
      	"patterns":["When CSPIT is established?","when cspit started","cspit history"],
      	"responses":["Chandubhai S Patel Institute of Technology, is the first institute established in year 2000 at Education Campus, Changa (now CHARUSAT)."]
     	},		
-	{"tag": "cspit_manag",
+		{"tag": "cspit_manag",
      	"patterns":["By whome CSPIT is being managed?","who manages CSPIT","CSPIT management","management in CSPIT"],
      	"responses":["The institute is managed through a think tank of technocrats, administrators, scientists and engineers, educationalists, businessmen, stakeholders and other well-wishers from all parts of the world."]
     	},
@@ -186,5 +127,369 @@
          "patterns": [],
          "responses": ["Loading hospital details"]
         }
+		{"tag": "",
+     	"patterns":["who is godzilla"],
+     	"responses":["godzilla is a monster who endangers japanese cities, and sometimes new york."]
+    	},
+		{"tag": "",
+     	"patterns":["who is spider man"],
+     	"responses":["peter parker."]
+    	},
+		{"tag": "",
+     	"patterns":["what is a government"],
+     	"responses":["ideally it is a representative of the people."]
+    	},
+		{"tag": "",
+     	"patterns":["what is greenpeace"],
+     	"responses":["global organization promoting enviornmental activism."]
+    	},
+		{"tag": "",
+     	"patterns":["what is capitalism"],
+     	"responses":["the economic system in which all or most of the means of production and distribution, as land, factories, railroads, etc., are privately owned and operated for profit, originally under fully competitive conditions."]
+    	},
+		{"tag": "",
+     	"patterns":["what is socialism"],
+     	"responses":["communism from people who want to keep their volvos. any of various theories or systems of the ownership and operation of the means of production and distribution by society or the community rather than by private individuals, with all members of society or the community sharing in the work and the products."]
+    	},
+		{"tag": "what is communism",
+     	"patterns":["what is communism"],
+     	"responses":["a sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society."]
+    	},
+		{"tag": "",
+     	"patterns":["what is impeached"],
+     	"responses":["when a person's honor or reputation has been challenged or discredited."]
+    	},
+		{"tag": "",
+     	"patterns":["who is the governor"],
+     	"responses":["it changes every few years."]
+    	},
+		{"tag": "",
+     	"patterns":["you are dishonest"],
+     	"responses":["yes. that has bothered me for a long time."]
+    	},
+		{"tag": "",
+     	"patterns":["you are an addict"],
+     	"responses":["that's certainly true. when i like something, i always overdo it."]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
+		{"tag": "",
+     	"patterns":[""],
+     	"responses":[""]
+    	},
    ]
 }
