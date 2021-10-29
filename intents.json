@@ -1,20 +1,24 @@
 {"intents": [
 	{"tag": "fees",
-     "patterns": ["fee","fees", "fee structure", "fees structure", "fee datails", "fees details", "what is the fees","what is the fee structure","how much the course fee is?"],
-     "responses": ["fee is very low","you want it free? here you go!!!","We don't take any fees","We don't take any fees, we are private charitable org!!!"]
-    },
-    {"tag": "university_info",
-     "patterns":["university name","what is university name","provide university info","university information","where is charusat University","provide some university details","university details","","","","","","","","","","","","","",""],
-     "responses":["CHARUSAT proudly follows this spirit. It also follows founding High Moral Values like Honesty, Integrity, Transparency, Fairness, Equity, and Accountability.\n\nCHARUSAT offers various programs, viz., UG, PG, Doctoral, Post-Doctoral, Diploma, Value-added and Executive Development Programs under the tutelage of 9 Institutes, 6 Faculties, and various Centers / Cells. An employee strength of 600, student strength of more than 8000 and a Capital Outlay of INR 150 Crores are the scalar dimensions of CHARUSAT. The programs are offered in the allied disciplines of Technology & Engineering, Pharmacy, Computer Applications, Management Studies, Applied Sciences, Nursing, Physiotherapy, and other Paramedical Sciences."]
-    },
-    {"tag": "placement",
-     "patterns":["placement","placements","How is placement","How is placement there","How is placement in Charusat University","salary","package","How much package they got."],
-     "responses":["CHARUSAT provides excellent placemts opportunities, you can read more here: https://www.charusat.ac.in/placement.php"]
-    },
+     	"patterns": ["fee","fees", "fee structure", "fees structure", "fee datails", "fees details", "what is the fees","what is the fee structure","how much the course fee is?"],
+     	"responses": ["fee is very low","you want it free? here you go!!!","We don't take any fees","We don't take any fees, we are private charitable org!!!"]
+    	},
+    	{"tag": "university_info",
+     	"patterns":["university name","what is university name","provide university info","university information","where is charusat University","provide some university details","university details","","","","","","","","","","","","","",""],
+     	"responses":["CHARUSAT proudly follows this spirit. It also follows founding High Moral Values like Honesty, Integrity, Transparency, Fairness, Equity, and Accountability.\n\nCHARUSAT offers various programs, viz., UG, PG, Doctoral, Post-Doctoral, Diploma, Value-added and Executive Development Programs under the tutelage of 9 Institutes, 6 Faculties, and various Centers / Cells. An employee strength of 600, student strength of more than 8000 and a Capital Outlay of INR 150 Crores are the scalar dimensions of CHARUSAT. The programs are offered in the allied disciplines of Technology & Engineering, Pharmacy, Computer Applications, Management Studies, Applied Sciences, Nursing, Physiotherapy, and other Paramedical Sciences."]
+    	},
+    	{"tag": "placement",
+    	"patterns":["placement","placements","How is placement","How is placement there","How is placement in Charusat University","salary","package","How much package they got."],
+    	"responses":["CHARUSAT provides excellent placemts opportunities, you can read more here: https://www.charusat.ac.in/placement.php"]
+    	},
+	{"tag": "celebrations",
+	"patterns":["celebration","celebrations","celebration in charusat","festival celebration","how charusat celebrate festivals","Is there any festival celebrated in this college"],
+	"responses": ["We at CHARUSAT celebrate festivals and days very enthusiastically. You can follow our social media page as well. https://www.instagram.com/thecharusat/"]
+	},
         {"tag": "greeting",
          "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
          "responses": ["Hi stranger", "Yebo yes, how can I help", "Ey watsupp", "Ekse Hoezit", "Hola", "Hey dude", "You again"]
-    },
+    	},
         {"tag": "goodbye",
          "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
          "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."]
