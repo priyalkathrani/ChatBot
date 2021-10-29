@@ -1,20 +1,4 @@
 {"intents": [
-	{"tag": "fees",
-     	"patterns": ["fee","fees", "fee structure", "fees structure", "fee datails", "fees details", "what is the fees","what is the fee structure","how much the course fee is?"],
-     	"responses": ["fee is very low","you want it free? here you go!!!","We don't take any fees","We don't take any fees, we are private charitable org!!!"]
-    	},
-    	{"tag": "university_info",
-     	"patterns":["university name","what is university name","provide university info","university information","where is charusat University","provide some university details","university details","","","","","","","","","","","","","",""],
-     	"responses":["CHARUSAT proudly follows this spirit. It also follows founding High Moral Values like Honesty, Integrity, Transparency, Fairness, Equity, and Accountability.\n\nCHARUSAT offers various programs, viz., UG, PG, Doctoral, Post-Doctoral, Diploma, Value-added and Executive Development Programs under the tutelage of 9 Institutes, 6 Faculties, and various Centers / Cells. An employee strength of 600, student strength of more than 8000 and a Capital Outlay of INR 150 Crores are the scalar dimensions of CHARUSAT. The programs are offered in the allied disciplines of Technology & Engineering, Pharmacy, Computer Applications, Management Studies, Applied Sciences, Nursing, Physiotherapy, and other Paramedical Sciences."]
-    	},
-    	{"tag": "placement",
-    	"patterns":["placement","placements","How is placement","How is placement there","How is placement in Charusat University","salary","package","How much package they got."],
-    	"responses":["CHARUSAT provides excellent placemts opportunities, you can read more here: https://www.charusat.ac.in/placement.php"]
-    	},
-	{"tag": "celebrations",
-	"patterns":["celebration","celebrations","celebration in charusat","festival celebration","how charusat celebrate festivals","Is there any festival celebrated in this college"],
-	"responses": ["We at CHARUSAT celebrate festivals and days very enthusiastically. You can follow our social media page as well. https://www.instagram.com/thecharusat/"]
-	},
         {"tag": "greeting",
          "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
          "responses": ["Hi stranger", "Yebo yes, how can I help", "Ey watsupp", "Ekse Hoezit", "Hola", "Hey dude", "You again"]
@@ -31,6 +15,46 @@
          "patterns": [],
          "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"]
         },
+	{"tag": "fees",
+     	"patterns": ["fee","fees", "fee structure", "fees structure", "fee datails", "fees details", "what is the fees","what is the fee structure","how much the course fee is?"],
+     	"responses": ["fee is very low","you want it free? here you go!!!","We don't take any fees","We don't take any fees, we are private charitable org!!!"]
+    	},
+    	{"tag": "uni_about",
+     	"patterns":["university name","what is university name","provide university info","university information","where is charusat University","provide some university details","university details"],
+     	"responses":["CHARUSAT proudly follows this spirit. It also follows founding High Moral Values like Honesty, Integrity, Transparency, Fairness, Equity, and Accountability.\n\nCHARUSAT offers various programs, viz., UG, PG, Doctoral, Post-Doctoral, Diploma, Value-added and Executive Development Programs under the tutelage of 9 Institutes, 6 Faculties, and various Centers / Cells. An employee strength of 600, student strength of more than 8000 and a Capital Outlay of INR 150 Crores are the scalar dimensions of CHARUSAT. The programs are offered in the allied disciplines of Technology & Engineering, Pharmacy, Computer Applications, Management Studies, Applied Sciences, Nursing, Physiotherapy, and other Paramedical Sciences."]
+    	},
+    	{"tag": "uni_info",
+     	"patterns":["where is university located","address","location","contact","connect","located","how to find the university","how to contact","where to contact","How to connect","how to come to CHARUSAT","where is charusat","where is university"],
+     	"responses":["CHARUSAT is located at Off. Nadiad-Petlad Highway, Changa 388 421,Anand, Gujarat, INDIA. \nYou can contact us by Telephone: 02697-265011 \nEmail: info@charusat.ac.in \nOn Google map: https://goo.gl/maps/3nGxqQaKptdRN8ym9"]
+    	},
+    	{"tag": "deparments",
+     	"patterns":["departments","how many departments","how many institutes","institutes","institutes list","list of institutes","department list","list of department","which are the departments in the university","how many institutes in the university"],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+    	{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+    	{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+    	{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+    	{"tag": "",
+     	"patterns":["","","","","","","","","","","","","","","","","","","",""],
+     	"responses":["","","","","","","","","","","","","","","","","","","",""]
+    	},
+    	{"tag": "placement",
+    	"patterns":["placement","placements","How is placement","How is placement there","How is placement in Charusat University","salary","package","How much package they got."],
+    	"responses":["CHARUSAT provides excellent placemts opportunities. More than 20 companies come for on-campus placement, like jaro education, BYJU'S, Berger, adani, Jeavio, TVTV, Samsung, Crest Data Systems etc., you can read more here: https://www.charusat.ac.in/placement.php"]
+    	},
+	{"tag": "celebrations",
+	"patterns":["celebration","celebrations","celebrated","celebration in charusat","festival celebration","how charusat celebrate festivals","Is there any festival celebrated in this college"],
+	"responses": ["We at CHARUSAT celebrate festivals and days very enthusiastically. You can follow our social media page as well. https://www.instagram.com/thecharusat/"]
+	},
         {"tag": "options",
          "patterns": ["How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
          "responses": ["I can guide you through Adverse drug reaction list, Blood pressure tracking, Hospitals and Pharmacies", "Offering support for Adverse drug reaction, Blood pressure, Hospitals and Pharmacies"]
