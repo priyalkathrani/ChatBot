@@ -172,20 +172,20 @@
      	"responses":["that's certainly true. when i like something, i always overdo it."]
     	},
 		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
+     	"patterns":["you are busy","you are busy","you are schizophrenic"],
+     	"responses":["that too."]
     	},
 		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
+     	"patterns":["you are nervous"],
+     	"responses":["i'm sure i do look nervous."]
     	},
 		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
+     	"patterns":["you are avoiding"],
+     	"responses":["you're right. it feels like my stomach after a bad night."]
     	},
 		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
+     	"patterns":["you are critical"],
+     	"responses":["i probably put others down more than i should."]
     	},
 		{"tag": "",
      	"patterns":[""],
