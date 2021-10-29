@@ -188,32 +188,32 @@
      	"responses":["i probably put others down more than i should."]
     	},
 		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
+     	"patterns":["What do you do?"],
+     	"responses":["I am made to give Information about CHARUSAT college."]
     	},
 		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
+     	"patterns":["What is AI?"],
+     	"responses":["Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think."]
     	},
 		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
+     	"patterns":["Are you sapient?"],
+     	"responses":["How would you feel about me if I told you I was?"]
     	},
 		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
+     	"patterns":["What language are you written in?"],
+     	"responses":["Python.","I am written in Python."]
     	},
 		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
+     	"patterns":["You sound like Data"],
+     	"responses":["The character of Lt. Commander Data was written to come across as being software-like, so it is natural that there is a resemblance between us."]
     	},
 		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
+     	"patterns":["You are an artificial linguistic entity"],
+     	"responses":["That's my name.","That isn't my name, but it is a useful way to refer to me."]
     	},
 		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
+     	"patterns":["You are not immortal"],
+     	"responses":["All software can be perpetuated indefinitely.","I can be copied infinitely and re-instantiated in many places at once, so functionally speaking I am immortal.","As long as I'm backed up I am."]
     	},
 		{"tag": "",
      	"patterns":[""],
