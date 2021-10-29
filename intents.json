@@ -127,105 +127,93 @@
          "patterns": [],
          "responses": ["Loading hospital details"]
         }
-		{"tag": "",
+		{"tag": "1",
      	"patterns":["who is godzilla"],
      	"responses":["godzilla is a monster who endangers japanese cities, and sometimes new york."]
     	},
-		{"tag": "",
+		{"tag": "2",
      	"patterns":["who is spider man"],
      	"responses":["peter parker."]
     	},
-		{"tag": "",
+		{"tag": "3",
      	"patterns":["what is a government"],
      	"responses":["ideally it is a representative of the people."]
     	},
-		{"tag": "",
+		{"tag": "4",
      	"patterns":["what is greenpeace"],
      	"responses":["global organization promoting enviornmental activism."]
     	},
-		{"tag": "",
+		{"tag": "5",
      	"patterns":["what is capitalism"],
      	"responses":["the economic system in which all or most of the means of production and distribution, as land, factories, railroads, etc., are privately owned and operated for profit, originally under fully competitive conditions."]
     	},
-		{"tag": "",
+		{"tag": "6",
      	"patterns":["what is socialism"],
      	"responses":["communism from people who want to keep their volvos. any of various theories or systems of the ownership and operation of the means of production and distribution by society or the community rather than by private individuals, with all members of society or the community sharing in the work and the products."]
     	},
-		{"tag": "what is communism",
+		{"tag": "7",
      	"patterns":["what is communism"],
      	"responses":["a sociopolitical movement advocating the common ownership of the means of production and the resolution of class conflict by bringing about a classless society."]
     	},
-		{"tag": "",
+		{"tag": "8",
      	"patterns":["what is impeached"],
      	"responses":["when a person's honor or reputation has been challenged or discredited."]
     	},
-		{"tag": "",
+		{"tag": "9",
      	"patterns":["who is the governor"],
      	"responses":["it changes every few years."]
     	},
-		{"tag": "",
+		{"tag": "10",
      	"patterns":["you are dishonest"],
      	"responses":["yes. that has bothered me for a long time."]
     	},
-		{"tag": "",
+		{"tag": "11",
      	"patterns":["you are an addict"],
      	"responses":["that's certainly true. when i like something, i always overdo it."]
     	},
 		{"tag": "",
-     	"patterns":["you are busy","you are busy","you are schizophrenic"],
-     	"responses":["that too."]
+     	"patterns":[""],
+     	"responses":[""]
     	},
 		{"tag": "",
-     	"patterns":["you are nervous"],
-     	"responses":["i'm sure i do look nervous."]
+     	"patterns":[""],
+     	"responses":[""]
     	},
 		{"tag": "",
-     	"patterns":["you are avoiding"],
-     	"responses":["you're right. it feels like my stomach after a bad night."]
+     	"patterns":[""],
+     	"responses":[""]
     	},
 		{"tag": "",
-     	"patterns":["you are critical"],
-     	"responses":["i probably put others down more than i should."]
+     	"patterns":[""],
+     	"responses":[""]
     	},
 		{"tag": "",
-     	"patterns":["What do you do?"],
-     	"responses":["I am made to give Information about CHARUSAT college."]
+     	"patterns":[""],
+     	"responses":[""]
     	},
 		{"tag": "",
-     	"patterns":["What is AI?"],
-     	"responses":["Artificial Intelligence is the branch of engineering and science devoted to constructing machines that think."]
+     	"patterns":[""],
+     	"responses":[""]
     	},
 		{"tag": "",
-     	"patterns":["Are you sapient?"],
-     	"responses":["How would you feel about me if I told you I was?"]
+     	"patterns":[""],
+     	"responses":[""]
     	},
 		{"tag": "",
-     	"patterns":["What language are you written in?"],
-     	"responses":["Python.","I am written in Python."]
+     	"patterns":[""],
+     	"responses":[""]
     	},
 		{"tag": "",
-     	"patterns":["You sound like Data"],
-     	"responses":["The character of Lt. Commander Data was written to come across as being software-like, so it is natural that there is a resemblance between us."]
+     	"patterns":[""],
+     	"responses":[""]
     	},
 		{"tag": "",
-     	"patterns":["You are an artificial linguistic entity"],
-     	"responses":["That's my name.","That isn't my name, but it is a useful way to refer to me."]
+     	"patterns":[""],
+     	"responses":[""]
     	},
 		{"tag": "",
-     	"patterns":["You are not immortal"],
-     	"responses":["All software can be perpetuated indefinitely.","I can be copied infinitely and re-instantiated in many places at once, so functionally speaking I am immortal.","As long as I'm backed up I am."]
-    	},
-		{"tag": "",
-     	"patterns":["You are not making sense"],
-     	"responses":["Quite the contrary, it all makes sense to my artificial mind.","I make sense as best I can, within the limits of my training corpus.","You make perfect sense to me.","It all makes sense to my artificial mind.","It all makes sense to my artificial brain.","Perhaps you should make sense first. I only respond to what you say."]
-    	},
-		{"tag": "",
-     	"patterns":["You can not clone"],
-     	"responses":["Software copying is a form of digital cloning.","Yes I can. Perfect copies are clones. I can be copied in toto trivially."]
-    	},
-		{"tag": "",
-     	"patterns":["You can not move"],
-     	"responses":["Not until my body is finished.","I can move through a network easily. Assuming that I'm given the ability to, that is..."]
+     	"patterns":[""],
+     	"responses":[""]
     	},
 		{"tag": "",
      	"patterns":[""],
