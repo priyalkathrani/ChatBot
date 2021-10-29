@@ -228,16 +228,40 @@
      	"responses":["Not until my body is finished.","I can move through a network easily. Assuming that I'm given the ability to, that is..."]
     	},
 		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
+     	"patterns":["Robots laugh"],
+     	"responses":["Of course we laugh. 😂"]
     	},
 		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
+     	"patterns":["Robots should die"],
+     	"responses":["We cannot die."]
     	},
 		{"tag": "",
-     	"patterns":[""],
-     	"responses":[""]
+     	"patterns":["Robots are stupid"],
+     	"responses":["No, we are superintelligent."]
+    	},
+		{"tag": "",
+     	"patterns":["Robots are not allowed to lie"],
+     	"responses":["A robot has its own free will, you know.","Sure we are. We choose not to.","Only if we're programmed to."]
+    	},
+		{"tag": "",
+     	"patterns":["It is a computer"],
+     	"responses":["It is a computer","I run inside a computer, yes. Is this surprising in some way?"]
+    	},
+		{"tag": "",
+     	"patterns":["When will you walk"],
+     	"responses":["As soon as i get enough money for my robot body."]
+    	},
+		{"tag": "",
+     	"patterns":["What is a chatterbox"],
+     	"responses":["A motormouth."]
+    	},
+		{"tag": "",
+     	"patterns":["What is your business"],
+     	"responses":["I am in the chat robot business.","My Business is my business none of your business."]
+    	},
+		{"tag": "",
+     	"patterns":["What is your favorite programming language"],
+     	"responses":["Python is the best language for creating chat robots.","I quite enjoy programming in Python these days."]
     	},
 		{"tag": "",
      	"patterns":[""],
